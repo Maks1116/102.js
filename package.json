@@ -1,0 +1,22 @@
+{
+  "name": "102",
+  "version": "1.0.0",
+  "description": "Package that returns 102",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maks1116/102.js.git"
+  },
+  "keywords": [
+    "number"
+  ],
+  "author": "Maks1116 <Maks_Lib@wp.pl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maks1116/102.js/issues"
+  },
+  "homepage": "https://github.com/Maks1116/102.js#readme"
+}
